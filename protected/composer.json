@@ -1,0 +1,11 @@
+{
+	"require":{
+		"silex/silex":"1.0.*@dev"
+	},
+	"autoload":{
+        "psr-0":{
+            "Providers" : "",
+            "Controllers" : "app/"
+        }
+    }
+}
